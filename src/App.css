@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  width: 100%;
+  max-width: 960px;
+  margin: 2.5em auto;
+  border-radius: .35em;
 }
 
 .App-logo {
@@ -15,6 +19,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  font-family: 'ITC Avant Garde Gothic Light', "Helvetica Neue",Helvetica, Arial, sans-serif;
   color: white;
 }
 
